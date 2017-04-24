@@ -1,0 +1,56 @@
+
+	#member-map { position:relative; background:transparent; width:578px; height:361px; margin:25px 0; }
+	#member-map > #map_off { position:absolute; z-index:3; top:0; left:0; }
+	#member-map > #map_trans { position:absolute; z-index:11; top:0; left:0; }
+	#member-map > .map_overlay { position:absolute; z-index:5; top:0; left:0; }
+	#member-map > #member-map-chooser { position:absolute; right:145px; bottom:15px; font-size:10px; z-index:58; color:#707D5D; border-color:#707D5D; }
+	#member-map > .ghost { display:none; }
+	
+	#member_container { overflow:auto; position:absolute; top:35px; bottom:35px; left:18px; right:18px; }
+	
+	#lightbox_map {
+		display:none;
+		position:fixed;
+		top:0; left:0;
+		min-width:100%;  
+		min-height:100%;
+		z-index:2001;
+		background:black url('loading.gif') no-repeat center center;
+		opacity:0.6;  
+		filter:alpha(opacity=60); }
+	#lightbox_content { 
+		display:none;
+		position:fixed;  
+		top:80px;  
+		left:50%;  
+		margin-left:-250px;  
+		width:500px;
+		bottom:80px;
+		background:#FFFFFF;  
+		padding:10px 15px 10px 15px;
+		border:2px solid #ccc;
+		-moz-border-radius: 6px;
+		border-radius: 6px;  
+		z-index:2002; }
+	#lightbox_content > #lightbox_closer {
+		position:absolute;
+		top:10px; right:10px;
+		font-size:21px; text-decoration:none; }
+	
+	#lightbox_content h1 {
+		font-size:18px; padding:12px 0; color:#707D5D; }	#lightbox_content h1:first-child { padding-top:3px; }
+	.member-map-list { color:#231F20; font-size:13px; line-height:16px; width:215px; margin:0 20px 0 0; }
+	.member-map-list.left { float:left; } .member-map-list.right { float:right; margin-right:10px; }
+	.member-map-list > li { margin-bottom:6px; }
+	.member-map-list > li > a.member-website { position:relative; color:inherit; text-decoration:none; display:block; padding-right:5px }
+	.member-map-list > li > a.member-website:hover > span.text { text-decoration:underline; }
+	.member-map-list > li > a.member-website > span.flair { display:inline-block; white-space:nowrap; text-decoration:none; color:#707D5D; margin:0 4px 0 0; }
+	.member-map-list > li > a.member-website:hover > span.flair { text-decoration:none; }
+	.member-map-list > li > a.member-website > span.flair.arrow { position:absolute; font-size:12px; margin:0 0 0 4px; }
+	.member-map-list > li > a.member-website > span.flair.globe > img { position:relative; top:1px; margin:0 3px 0 0; }
+	.member-map-list > li > a.member-hippo, .member-map-list > li > a.member-edready { font-size:11px; margin-left:10px; }
+	.footnote.sweeper { color:#A1A78D; font-size:11px; font-style:italic; position:absolute; right:18px; bottom:10px; clear:both; }
+	#view-all-members { position: absolute; z-index: 99; bottom: -6px; left: 334px;
+		font-size: 10px;  }
+	#view-all-members:active { top:auto; bottom:-7px; }
+

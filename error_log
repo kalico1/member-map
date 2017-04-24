@@ -1,0 +1,43 @@
+[16-Dec-2011 13:00:44] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 20
+[16-Dec-2011 13:01:29] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 20
+[16-Dec-2011 13:02:36] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 20
+[16-Dec-2011 13:04:17] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 20
+[16-Dec-2011 13:11:59] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 20
+[16-Dec-2011 13:13:52] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 20
+[16-Dec-2011 13:14:20] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 20
+[16-Dec-2011 13:17:23] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 20
+[16-Dec-2011 13:19:33] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:20:12] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:20:46] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:20:57] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:21:19] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:22:03] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:22:22] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:23:05] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:23:35] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:25:43] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:26:45] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:27:59] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:30:21] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:30:45] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:32:42] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:33:33] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:33:55] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:40:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bluemar/public_html/mite-update/member-map/render.php on line 27
+[16-Dec-2011 13:40:13] PHP Fatal error:  Call to undefined function  bloginfo() in /home/bluemar/public_html/mite-update/member-map/render.php on line 33
+[16-Dec-2011 13:40:47] PHP Fatal error:  Call to undefined function  bloginfo() in /home/bluemar/public_html/mite-update/member-map/render.php on line 33
+[16-Dec-2011 13:41:02] PHP Fatal error:  Call to undefined function  bloginfo() in /home/bluemar/public_html/mite-update/member-map/render.php on line 33
+[16-Dec-2011 13:41:42] PHP Fatal error:  Call to undefined function  bloginfo() in /home/bluemar/public_html/mite-update/member-map/render.php on line 32
+[16-Dec-2011 13:42:48] PHP Fatal error:  Call to undefined function  bloginfo() in /home/bluemar/public_html/mite-update/member-map/render.php on line 32
+[16-Dec-2011 13:52:37] PHP Fatal error:  Call to undefined function  bloginfo() in /home/bluemar/public_html/mite-update/member-map/render.php on line 32
+[16-Dec-2011 13:53:34] PHP Fatal error:  Call to undefined function  bloginfo() in /home/bluemar/public_html/mite-update/member-map/render.php on line 32
+[16-Dec-2011 14:24:15] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/render.php on line 23
+[16-Dec-2011 15:23:17] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/render.php on line 23
+[16-Dec-2011 15:25:14] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/render.php on line 23
+[16-Dec-2011 15:25:35] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/render.php on line 23
+[16-Dec-2011 15:50:08] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/load.php on line 25
+[16-Dec-2011 15:52:36] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/load.php on line 25
+[16-Dec-2011 15:59:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/load.php on line 25
+[16-Dec-2011 16:01:16] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/load.php on line 25
+[16-Dec-2011 16:02:36] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/bluemar/public_html/mite-update/member-map/load.php on line 27
+[16-Dec-2011 16:08:42] PHP Parse error:  syntax error, unexpected ']' in /home/bluemar/public_html/mite-update/member-map/load.php on line 58
