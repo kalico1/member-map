@@ -10,7 +10,7 @@ header('Content-Type: text/javascript; charset=UTF-8');
 	ini_set('display_errors','off');
 	global $wpdb;
 	if(!isset($wpdb)) {
-	  require_once('../wp-config.php');
+	  require_once('../../wp-config.php');
 	  require_once('../wp-load.php');
 	  require_once('../wp-includes/wp-db.php');
 	}
