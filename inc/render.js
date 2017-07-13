@@ -1,4 +1,4 @@
-var remoteServer = 'dev.nrocnetwork.org';
+var remoteServer = 'nrocnetwork.org';
 var data = 'nothing';
 var states = {
 	AL: "Alabama", 
