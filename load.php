@@ -16,13 +16,18 @@ header('Content-Type: text/javascript; charset=UTF-8');
 	}
 
 	$arg = array(
-		'numberposts'     => -1,
-		'post_type'		=> 'member',
-		'meta_key'		=> 'afterburner_member_state',
-		'meta_value'	=> $_GET['state'],
-		'orderby'		=> 'title',
-		'order'			=> 'ASC'
-	);
+                'numberposts'     => -1,
+                'post_type'             => 'member',
+                'meta_query'    => array(
+                                        array(
+                                        'key' => 'afterburner_member_state',
+                                        'value' => $_GET['state'],
+                                        'orderby' => 'title',
+                                        'order' => 'ASC'
+                                        )
+                                )
+);
+
 	
 	
 	$members = get_posts($arg);
